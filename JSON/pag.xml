@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+	<titulo>Datos de estudiantes</titulo>
+	<estudiante id="1">
+		<nombre>Belén</nombre>
+		<apellido>Villamar</apellido>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0997786150</telefono>
+		<correo>belen.villamar30@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="2">
+		<nombre>Pedro</nombre>
+		<apellido>Vera</apellido>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0953049584</telefono>
+		<correo>pedrovera@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="3">
+		<nombre>Eber</nombre>
+		<apellido>Alarcón</apellido>
+		<semestre>Cuarto semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Chone</direccion>
+		<telefono>0934789012</telefono>
+		<correo>eber123@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="4">
+		<nombre>Nicolle</nombre>
+		<apellido>Triviño</apellido>
+		<semestre>Primero semestre</semestre>
+		<paralelo>Paralelo "C"</paralelo>
+		<direccion>Portoviejo</direccion>
+		<telefono>0912459847</telefono>
+		<correo>nicolletriv@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="5">
+		<nombre>Nahomi</nombre>
+		<apellido>Machuca</apellido>
+		<semestre>Tercero semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Montecristi</direccion>
+		<telefono>0945607984</telefono>
+		<correo>nahomim@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="6">
+		<nombre>Caroline</nombre>
+		<apellido>Lucas</apellido>
+		<semestre>Segundo semestre</semestre>
+		<paralelo>Paralelo "C"</paralelo>
+		<direccion>Jipijapa</direccion>
+		<telefono>0923460796</telefono>
+		<correo>carolineluc@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="7">
+		<nombre>María</nombre>
+		<apellido>Santana</apellido>
+		<semestre>Sexto semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Flavio Alfaro</direccion>
+		<telefono>0934069754</telefono>
+		<correo>mariasantana@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="8">
+		<nombre>Mateo</nombre>
+		<apellido>Párraga</apellido>
+		<semestre>Octavo semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0994567123</telefono>
+		<correo>mateoparrg@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="9">
+		<nombre>Nicole</nombre>
+		<apellido>Echeverría</apellido>
+		<semestre>Quinto semestre</semestre>
+		<paralelo>Paralelo "C"</paralelo>
+		<direccion>Manta</direccion>
+		<telefono>0987345829</telefono>
+		<correo>nicoleecheverria@gmail.com</correo>
+	</estudiante>
+
+	<estudiante id="10">
+		<nombre>Diego</nombre>
+		<apellido>Murillo</apellido>
+		<semestre>Octavo semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Jipijapa</direccion>
+		<telefono>0999832456</telefono>
+		<correo>diego09@gmail.com</correo>
+	</estudiante>
+</registro>
